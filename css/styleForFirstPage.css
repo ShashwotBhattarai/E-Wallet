@@ -1,0 +1,52 @@
+body{
+    background-color: #420943;
+    
+}
+
+h1{
+    color: #ffffff;
+    font-size: 100px;
+    font-weight: bold;
+    
+}
+p{
+    color: #ffffff;
+    font-size: 50px;
+    margin-top: 150px;
+    
+}
+
+#imageSpace{
+
+}
+
+#loginSignUpSpace{
+
+    margin-top: 100px;
+   
+
+}
+
+#loginButton{
+
+}
+
+#signupButton{
+
+}
+
+.buttonsFirstPage{
+    color: #ffffff;
+    background-color: #800F25;
+    font-size: 24px;
+    padding: 12px 28px;
+    border-radius: 12px;
+    width: 250px;
+    display: block;
+    border: 2px solid #C0ADDB;
+
+}
+
+.buttonsFirstPage:hover {
+    box-shadow:2px 1px 1px #C0ADDB;
+  }
