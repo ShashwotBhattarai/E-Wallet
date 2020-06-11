@@ -1,0 +1,21 @@
+body{
+    background-color: #420943;
+    color: #ffffff;
+    font-family: Garamond;
+}
+h1{
+    font-size: 75px;
+}
+#header{
+    background-color: #ffffff;
+    height: 40px;
+    position: absolute;
+    left: 1185px;
+    width: 50px;
+}
+#signOutButton{
+    background-color: #800F25;
+    
+
+    
+}
