@@ -1,0 +1,88 @@
+
+       
+      body{
+        background-color: #C0ADDB;
+    }
+    #mainBoxArea{
+
+          width: 500px;
+          padding: 50px;
+          margin: 20px;
+          background-color: #420943;
+          height: 423px;
+          margin-top: 60px;
+      
+      }
+
+      h1{
+          text-align: left;
+      }
+
+      #inputArea{
+          position: absolute;
+          margin-top: 30px;
+      }
+
+      .titles{
+
+          color: white;
+          margin-bottom: 48px;
+          font-family: Garamond;
+          font-size: 35px;
+
+      }
+
+      .labels{
+
+          color:white ;
+          font-family: Garamond;
+          font-weight: bold;
+          font-size: 22px;
+
+      }
+
+      .inputFields{
+          width: 240px;
+          padding: 4px;
+
+      }
+      #amountInput{
+
+          margin-left: 74px;
+          margin-bottom: 15px;
+          margin-top: 15px;
+      }
+
+      #alertArea {
+          width: 271px;
+          padding: 2px;
+          margin-top: 6px;
+          background-color:#420943;
+          height: 20px;
+      }
+
+      #lowerButtonsDiv {
+          position: absolute;
+          top: 485px;
+      }
+      
+
+      .lowerButtonStyle{
+          color: #ffffff;
+          background-color: #800F25;
+          font-size: 18px;
+          padding: 6px 12px;
+          border-radius: 12px;
+          width: 106px;
+          border: 2px solid #C0ADDB;
+      }
+
+      .lowerButtonStyle:hover{
+          box-shadow:2px 1px 1px #C0ADDB;
+      }
+
+      #cancelButton{
+
+          margin-left: 285px;
+
+      }
